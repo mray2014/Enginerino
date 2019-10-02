@@ -6,6 +6,7 @@ My first engine I created in 2016 in under one month. This project was the worst
 ## Goals
 My main goals for this project were:
 - Getting the engine to work in general
+- Get comfortable with DirectX11 and understanding it
 - Implementing a game, more specifically Tetris created inside the engine
 - Create a tutorial system that would talk to you and guide you on how to use the engine
 - Instance Rendering because using so many box primitives, it only made sense to implement to optimize
